@@ -7,7 +7,7 @@ does not require previous configuration
 With a comfortable interface
 Also add the most basic app to start
 
-![alt text](borrame/home2.jpg)
+![alt text](Borrame/home2.jpg)
 
 Instalación
 =============
@@ -15,9 +15,9 @@ Instalación
 
 2.- Extraer y sobrescribir todo en la micro SD
 
-3.- Injectar [payload-forwarder](https://github.com/Kronos2308/StarDustCFWPack/blob/master/borrame/Payload-Forwarder.bin?raw=true) en la consola 
+3.- Injectar [payload-forwarder](https://github.com/StarDustCFW/Kaiser/blob/master/Borrame/Payload-Forwarder.bin?raw=true) en la consola 
 
-  3a.-Si usas R4s como yo, usa este .uf2 en el dongle [CURRENT.UF2](https://github.com/StarDustCFW/StarDustCFWPack/blob/master/borrame/CURRENT.UF2?raw=true)
+  3a.-Si usas R4s como yo, usa este .uf2 en el dongle [CURRENT.UF2](https://github.com/StarDustCFW/Kaiser/blob/master/Borrame/CURRENT.UF2?raw=true)
   
   instrucciones aqui http://bit.ly/2tLBTua
 
@@ -31,9 +31,9 @@ Instalación
 
 2.- Extract and overwrite everything in the micro SD
 
-3.- Inject [payload-forwarder](https://github.com/StarDustCFW/StarDustCFWPack/blob/master/borrame/Payload-Forwarder.bin?raw=true) in the console
+3.- Inject [payload-forwarder](https://github.com/StarDustCFW/Kaiser/blob/master/Borrame/Payload-Forwarder.bin?raw=true) in the console
 
- 3a.-If you use R4s like me, use this .uf2 on the dongle [CURRENT.UF2](https://github.com/StarDustCFW/StarDustCFWPack/blob/master/borrame/CURRENT.UF2?raw=true)
+ 3a.-If you use R4s like me, use this .uf2 on the dongle [CURRENT.UF2](https://github.com/StarDustCFW/Kaiser/blob/master/Borrame/CURRENT.UF2?raw=true)
   instructions here http://bit.ly/2tLBTua
 
 
@@ -42,9 +42,9 @@ Instalación
 
 
 
-![alt text](borrame/screenshot.png)
+![alt text](Borrame/screenshot.png)
 
-![alt text](borrame/Home.jpg)
+![alt text](Borrame/Home.jpg)
 
 **Credits**
 
