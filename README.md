@@ -1,11 +1,11 @@
 <a href="https://discord.io/myrincon"><img src="https://discordapp.com/api/guilds/516631805621960704/embed.png" alt="Discord Server" /></a>
 # Kaiser
 
-A fork of Atmosphere 
-minimalist ,ready to copy and use
-does not require previous configuration
-With a comfortable interface
-Also add the most basic app to start
+* A fork of Atmosphere
+* Ready to copy and use
+* Does not require previous configuration
+* With a comfortable interface
+* Also add the most basic app to start
 
 ![alt text](Borrame/home2.jpg)
 
@@ -59,6 +59,8 @@ D3fau4
 PricelessTwo2
 
 And special thanks to Rumba the retrogamer_74 dog
+
+![alt text](Borrame/toolkit.jpg)
 
 # Forks
 
