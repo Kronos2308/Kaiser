@@ -25,7 +25,7 @@ Instalación
 4.- Listo
 
 
-====================================================
+## English
 
 1.- Download the last release in [Here](https://github.com/StarDustCFW/Kaiser/releases/latest)
 
