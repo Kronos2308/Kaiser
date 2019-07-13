@@ -7,8 +7,6 @@
 * With a comfortable interface
 * Also add the most basic app to start
 
-![alt text](Borrame/home2.jpg)
-
 [![IMAGE ALT TEXT HERE](Borrame/home2.jpg)](https://youtu.be/OydpT-emU-U)
 
 
