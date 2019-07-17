@@ -20,6 +20,7 @@ Instalación
 
   3a.-Si usas R4s como yo, usa este .uf2 en el dongle [CURRENT.UF2](https://github.com/StarDustCFW/Kaiser/blob/master/Borrame/CURRENT.UF2?raw=true)
   instrucciones aqui http://bit.ly/2tLBTua
+  
 	3b.-Si usas SXOS PRO pon este [boot.dat](https://github.com/StarDustCFW/Kaiser/blob/master/Borrame/boot.dat?raw=true) en la Raíz de la sd
   
   
