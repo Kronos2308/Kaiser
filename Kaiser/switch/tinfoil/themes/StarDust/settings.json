@@ -1,13 +1,13 @@
 {
-	"color": "000000FF",
-	"logo": "sdmc:/switch/tinfoil/themes/StarDust/icon.png",
+	"color": "C3C3C3FF",
+	"logo": "",
 	"background": {
-		"color": "FFFFFF7F",
+		"color": "2D2D2D40",
 		"image": "sdmc:/switch/tinfoil/themes/StarDust/bg.jpg"
 	},
 
 	"selection": {
-		"color": "008CF5FF",
+		"color": "FFFFFFFF",
 		"background": {
 			"color": "1C2023FF"
 		},
@@ -18,7 +18,7 @@
 	},
 	"menu": {
 		"selection": {
-			"color": "008CF5FF",
+			"color": "FFFFFFFF",
 			"background": {
 				"color": "2D2D2D40"
 			},
