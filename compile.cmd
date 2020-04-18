@@ -1,5 +1,5 @@
 @echo off
-make -C ..\Kaiser-bootmenu
+make -C .\Kaiser-bootmenu
 echo completado
 echo %cd%
 copy /y Kaiser-bootmenu\output\boot-menu.bin ".\Kaiser\payload.bin"
