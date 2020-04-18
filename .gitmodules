@@ -1,3 +1,3 @@
-[submodule "DbConnector"]
+[submodule "Kaiser-bootmenu"]
 	path = Kaiser-bootmenu
 	url = https://github.com/Kronos2308/Kaiser-bootmenu.git
